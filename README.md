@@ -67,7 +67,7 @@ Example
 
 GAME: Valorant
 
-USERNAME & PASSWORD : sarnax / toq1022  
+USERNAME & PASSWORD : Maklys / Maklys1234  
 
 EXTERNAL & INTERNAL : External
 
